@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1610286189 source:d:\diselengine\dieselengine\app\main.cpp
+	"AppWindow.h"
+
+1610286656 source:d:\diselengine\dieselengine\src\window.cpp
+	"Window.h"
+
+1610286189 d:\diselengine\dieselengine\include\window.h
+	<Windows.h>
+
+1610286189 d:\diselengine\dieselengine\include\appwindow.h
+	"Window.h"
+
+1610286198 source:d:\diselengine\dieselengine\src\appwindow.cpp
+	"AppWindow.h"
+
